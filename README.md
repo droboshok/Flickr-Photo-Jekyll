@@ -23,4 +23,14 @@ A Jekyll plug-in for embedding Flickr photos in your Liquid templates.
 
   Medium (~500px width) is the default.
 
-  
+'Square' width="75" height="75" 
+'Large Square' width="150" height="150" 
+'Thumbnail' width="75" height="100" 
+'Small' width="180" height="240" 
+'Small 320' width="240" height="320" 
+'Medium' width="375" height="500" 
+'Medium 640' width="480" height="640" 
+'Medium 800' width="600" height="800" 
+'Large' width="768" height="1024" 
+'Large 1600' width="1200" height="1600" 
+'Original' width="1200" height="1600" 
